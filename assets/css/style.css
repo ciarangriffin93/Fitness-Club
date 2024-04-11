@@ -149,7 +149,7 @@ main {
 }
 
 #circle-cover-bg {
-    background: url('/assets/images/gym.webp') no-repeat top center / cover;
+    background: url('/assets/images/fitness.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
