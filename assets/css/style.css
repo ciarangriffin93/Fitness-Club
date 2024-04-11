@@ -107,7 +107,7 @@ main {
 
 #cover-text {
     /* Final rgba value sets the opacity so it is semi-transparent */
-    background-color: rgba(241, 109, 107, .7);
+    background-color: rgba(0, 0, 0, 0.7);
     font-size: 130%;
     position: absolute;
     bottom: 30px;
