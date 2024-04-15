@@ -167,7 +167,7 @@ main {
 
 /* Meetup Times section */
 #times {
-    background: url('../images/gym.webp') no-repeat center/cover;
+    background: url('../images/weight.jpeg') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
