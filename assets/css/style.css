@@ -101,7 +101,7 @@ main {
 #hero {
     height: 600px;
     width: 100%;
-    background: url("/assets/images/Fitness-Gym.jpeg") no-repeat center center/cover;
+    background: url("../images/Fitness-Gym.jpeg") no-repeat center center/cover;
     position: relative;
 }
 
@@ -149,7 +149,7 @@ main {
 }
 
 #circle-cover-bg {
-    background: url('/assets/images/fitness.webp') no-repeat top center / cover;
+    background: url('../images/fitness.webp') no-repeat top center / cover;
     height: 90vw;
     width: 90vw;
     margin-bottom: 20px;
@@ -167,7 +167,7 @@ main {
 
 /* Meetup Times section */
 #times {
-    background: url('/assets/images/weight.jpeg') no-repeat center/cover;
+    background: url('../images/gym.webp') no-repeat center/cover;
     /* Handles responsivity without the need for a media query */
     display: flex;
     flex-wrap: wrap;
